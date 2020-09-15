@@ -1,5 +1,5 @@
 <?php
-// nella variabile text memoriazzo il mio paragrafo
+// nella variabile text memorizzo il mio paragrafo
 $text = "questo è un esempio del mio paragrafo, questa è una prova, questa è una prova";
 // dentro la variabile $valoreGet memorizzo il valore di GET
 $valoreGet = $_GET["badword"];
